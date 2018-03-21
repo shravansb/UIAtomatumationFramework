@@ -1,0 +1,16 @@
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\SampleAutomationProject.exe.config
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\SampleAutomationProject.exe
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\SampleAutomationProject.pdb
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\WebDriver.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\WebDriver.xml
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\obj\Debug\SampleAutomationProject.exe
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\obj\Debug\SampleAutomationProject.pdb
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\bin\Debug\xunit.abstractions.dll
+C:\Users\sbongale\documents\visual studio 2015\Projects\SampleAutomationProject\SampleAutomationProject\obj\Debug\SampleAutomationProject.csprojResolveAssemblyReference.cache
